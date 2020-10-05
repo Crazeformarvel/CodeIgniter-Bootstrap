@@ -15,7 +15,7 @@ Derived from CodeIgniter, read [CodeIgniter Installation](http://codeigniter.com
 
 ## Documentation
 
-Check out the [Wiki](https://github.com/sjlu/CodeIgniter-Bootstrap/wiki) for more information.
+Don't forget to check out the [Wiki](https://github.com/sjlu/CodeIgniter-Bootstrap/wiki) for more information.
 
 ## Releases
 
